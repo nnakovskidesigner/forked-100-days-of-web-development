@@ -1,0 +1,17 @@
+body{
+    background-color: #E2EAEF;
+}
+.formarea{
+    margin: 0 auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    width: 43%;
+    background-color: #F6F8FF;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.formarea h1{
+    margin: 0;
+}
+.formarea label{
+    opacity: 0.8;
+}

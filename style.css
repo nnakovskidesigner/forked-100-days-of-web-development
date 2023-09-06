@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: rgb(15,15,15);
+    color: white;
+}
+img{
+    margin-top: 2%;
+    width: 5%;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    margin-top: 5%;
+}
+p {
+    font-family: 'Fira Sans', sans-serif;
+  }
+
+  a {
+    font-family: 'Fira Sans', sans-serif;
+    text-decoration: none;
+    color: white;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  div{
+    width: 40%;
+    margin: 0 auto;
+  }
+  ul li{
+    margin-top: 20px;
+    list-style: none;
+  }
+
+
+
+
